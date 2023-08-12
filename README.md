@@ -8,13 +8,13 @@ Estaba en Licenciatura en biotecnologia pero siempre en el secundario me gustaro
 Me gusta
 
 + escuchar musica de cualquier tipo pero de preferencia rock nacional
-+ 
+  
 + tocar la guitarra o el piano
-+ 
+  
 + jugar algo de gestion o estrategia en la PC
-+ 
+  
 + ver peliculas de accion o policiales,de terror solo si son buenas.
-+ 
+  
 
 Trabajo en un kiosko propio con horarios a conveniencia de la cursada
 
