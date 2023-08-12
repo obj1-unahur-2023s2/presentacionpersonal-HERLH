@@ -4,8 +4,9 @@
 
 Me llamo Erik Herrera,soy tecnico en informatica y esa es el segundo cuatrimestre en la Tecnicatura en programacion.
 Estaba en Licenciatura en biotecnologia pero siempre en el secundario me gustaron las materias de programar,asique en cuanto habilitaron la carrera me cambie.
+tambien estoy cursando Base de datos los miercoles por la tarde-noche.
 
-Me gusta
+#### Gustos
 
 + escuchar musica de cualquier tipo pero de preferencia rock nacional
   
@@ -14,6 +15,8 @@ Me gusta
 + jugar algo de gestion o estrategia en la PC
   
 + ver peliculas de accion o policiales,de terror solo si son buenas.
+
++ helado de tramontana
   
 
 Trabajo en un kiosko propio con horarios a conveniencia de la cursada
